@@ -1,0 +1,16 @@
+Running scan for phone number 33142685300...
+
+Results for local
+Raw local: 0142685300
+Local: 01 42 68 53 00
+E164: +33142685300
+International: 33142685300
+Country: FR
+
+Results for ovh
+Found: false
+
+The following scanners returned errors:
+numverify: Get "https://api.apilayer.com/number_verification/validate?number=33142685300": net/http: TLS handshake timeout
+
+2 scanner(s) succeeded

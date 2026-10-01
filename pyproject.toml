@@ -1,0 +1,10 @@
+[project]
+name = "osinthub"
+version = "1.0.0"
+description = "OSINT Hub — desktop app combining ExifTool, PhoneInfoga, Holehe, SpiderFoot and Sherlock"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+norecursedirs = ["tools", "build", "dist", ".venv"]
+addopts = "-q"

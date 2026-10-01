@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+
+dist/
+tools/exiftool/
+tools/phoneinfoga/
+tools/spiderfoot/
+tests/fixtures/files/*.tmp
+build/work/
+build/snapshots/
+build/app.ico
+build/build.log
+build/selftest.json

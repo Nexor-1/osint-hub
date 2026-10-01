@@ -1,0 +1,22 @@
+﻿OSINT Hub — локальный набор инструментов разведки по открытым источникам
+(ExifTool, PhoneInfoga, Holehe, SpiderFoot, Sherlock).
+
+Используйте приложение только для проверки собственного цифрового следа и
+исследований, на которые у вас есть разрешение. Соблюдайте законодательство
+о персональных данных (в том числе 152-ФЗ и GDPR) и правила сервисов.
+
+Все данные (история сканов, настройки, журналы) хранятся локально в папке
+%APPDATA%\OSINTHub. API-ключи хранятся в Диспетчере учётных данных Windows.
+
+OSINT Hub распространяется под лицензией GNU GPL v3 (LICENSE.txt).
+Исходный код: https://github.com/Nexor-1/osint-hub
+
+Встроенные инструменты распространяются под собственными лицензиями
+(подробно — THIRD_PARTY_NOTICES.md и папка licenses в папке установки):
+  ExifTool — GPL-3.0 / Artistic License
+  PhoneInfoga — GPL-3.0
+  Holehe — GPL-3.0
+  SpiderFoot — MIT
+  Sherlock — MIT
+Шрифты Inter и JetBrains Mono — SIL OFL 1.1; иконки Lucide — ISC;
+Leaflet — BSD-2-Clause; картографические данные © участники OpenStreetMap.

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="leaflet.css">
+<style>
+  html, body, #map { height: 100%; margin: 0; background: #1B242B; }
+  /* Dark rendering of the standard OSM tiles to match the app theme. */
+  .leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) brightness(.82) contrast(.92) saturate(.6); }
+  .leaflet-control-attribution { background: rgba(15,17,21,.75) !important; color: #8A8F98 !important; font: 10px Inter, "Segoe UI", sans-serif; }
+  .leaflet-control-attribution a { color: #AA9EFA !important; }
+  .leaflet-bar a { background: #171A21 !important; color: #E6E8EB !important; border-color: #262A33 !important; }
+  .leaflet-bar { border: 1px solid #262A33 !important; box-shadow: none !important; }
+  .pin { width: 12px; height: 12px; border-radius: 50%; background: #A99CFF; border: 2px solid #F0EDFF;
+         box-shadow: 0 0 0 12px rgba(124,108,242,.22); }
+  .offline { position: absolute; inset: 0; display: none; align-items: center; justify-content: center;
+             color: #8A8F98; font: 12px Inter, "Segoe UI", sans-serif; z-index: 999; pointer-events: none; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<div class="offline" id="offline">Нет подключения к OpenStreetMap — карта недоступна</div>
+<script src="leaflet.js"></script>
+<script>
+  (function () {
+    var q = new URLSearchParams(location.search);
+    var lat = parseFloat(q.get("lat")), lon = parseFloat(q.get("lon"));
+    if (!isFinite(lat) || !isFinite(lon) || Math.abs(lat) > 90 || Math.abs(lon) > 180) { lat = 0; lon = 0; }
+    var map = L.map("map", { zoomControl: true, attributionControl: true }).setView([lat, lon], 15);
+    map.attributionControl.setPrefix('<a href="https://leafletjs.com">Leaflet</a>');
+    var errors = 0;
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 19,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).on("tileerror", function () {
+      if (++errors > 6) document.getElementById("offline").style.display = "flex";
+    }).addTo(map);
+    L.marker([lat, lon], { icon: L.divIcon({ className: "", html: '<div class="pin"></div>', iconSize: [16, 16] }) }).addTo(map);
+    window.setView = function (la, lo) { map.setView([la, lo], 15); };
+  })();
+</script>
+</body>
+</html>

@@ -1,0 +1,4164 @@
+{
+ "username": "octocat",
+ "total": 462,
+ "sites": [
+  {
+   "site": "1337x",
+   "url_main": "https://www.1337x.to/",
+   "url_user": "https://www.1337x.to/user/octocat/",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "2Dimensions",
+   "url_main": "https://2Dimensions.com/",
+   "url_user": "https://2Dimensions.com/a/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "7Cups",
+   "url_main": "https://www.7cups.com/",
+   "url_user": "https://www.7cups.com/@octocat",
+   "status": "Claimed",
+   "http_status": 202,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "9GAG",
+   "url_main": "https://www.9gag.com/",
+   "url_user": "https://www.9gag.com/u/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "About.me",
+   "url_main": "https://about.me/",
+   "url_user": "https://about.me/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Academia.edu",
+   "url_main": "https://www.academia.edu/",
+   "url_user": "https://independent.academia.edu/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Airbit",
+   "url_main": "https://airbit.com/",
+   "url_user": "https://airbit.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Airliners",
+   "url_main": "https://www.airliners.net/",
+   "url_user": "https://www.airliners.net/user/octocat/profile/photos",
+   "status": "Claimed",
+   "http_status": 202,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "AllMyLinks",
+   "url_main": "https://allmylinks.com/",
+   "url_user": "https://allmylinks.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "AniWorld",
+   "url_main": "https://aniworld.to/",
+   "url_user": "https://aniworld.to/user/profil/octocat",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Anilist",
+   "url_main": "https://anilist.co/",
+   "url_user": "https://anilist.co/user/octocat/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Apple Developer",
+   "url_main": "https://developer.apple.com",
+   "url_user": "https://developer.apple.com/forums/profile/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Apple Discussions",
+   "url_main": "https://discussions.apple.com",
+   "url_user": "https://discussions.apple.com/profile/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Aparat",
+   "url_main": "https://www.aparat.com/",
+   "url_user": "https://www.aparat.com/octocat/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Archive of Our Own",
+   "url_main": "https://archiveofourown.org/",
+   "url_user": "https://archiveofourown.org/users/octocat",
+   "status": "Unknown",
+   "http_status": null,
+   "error_type": "status_code",
+   "context": "Timeout Error"
+  },
+  {
+   "site": "Archive.org",
+   "url_main": "https://archive.org",
+   "url_user": "https://archive.org/details/@octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Arduino Forum",
+   "url_main": "https://forum.arduino.cc/",
+   "url_user": "https://forum.arduino.cc/u/octocat/summary",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "ArtStation",
+   "url_main": "https://www.artstation.com/",
+   "url_user": "https://www.artstation.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Asciinema",
+   "url_main": "https://asciinema.org",
+   "url_user": "https://asciinema.org/~octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Ask Fedora",
+   "url_main": "https://ask.fedoraproject.org/",
+   "url_user": "https://ask.fedoraproject.org/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Atcoder",
+   "url_main": "https://atcoder.jp/",
+   "url_user": "https://atcoder.jp/users/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Vjudge",
+   "url_main": "https://VJudge.net/",
+   "url_user": "https://VJudge.net/user/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Audiojungle",
+   "url_main": "https://audiojungle.net/",
+   "url_user": "https://audiojungle.net/user/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Autofrage",
+   "url_main": "https://www.autofrage.net/",
+   "url_user": "https://www.autofrage.net/nutzer/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Avizo",
+   "url_main": "https://www.avizo.cz/",
+   "url_user": "https://www.avizo.cz/octocat/",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "AWS Skills Profile",
+   "url_main": "https://skillsprofile.skillbuilder.aws",
+   "url_user": "https://skillsprofile.skillbuilder.aws/user/octocat/",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "BOOTH",
+   "url_main": "https://booth.pm/",
+   "url_user": "https://octocat.booth.pm/",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "Bandcamp",
+   "url_main": "https://www.bandcamp.com/",
+   "url_user": "https://www.bandcamp.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Bazar.cz",
+   "url_main": "https://www.bazar.cz/",
+   "url_user": "https://www.bazar.cz/octocat/",
+   "status": "Available",
+   "http_status": 302,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "Behance",
+   "url_main": "https://www.behance.net/",
+   "url_user": "https://www.behance.net/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Bezuzyteczna",
+   "url_main": "https://bezuzyteczna.pl",
+   "url_user": "https://bezuzyteczna.pl/uzytkownicy/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "BiggerPockets",
+   "url_main": "https://www.biggerpockets.com/",
+   "url_user": "https://www.biggerpockets.com/users/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "BioHacking",
+   "url_main": "https://forum.dangerousthings.com/",
+   "url_user": "https://forum.dangerousthings.com/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "BitBucket",
+   "url_main": "https://bitbucket.org/",
+   "url_user": "https://bitbucket.org/octocat/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Bitwarden Forum",
+   "url_main": "https://bitwarden.com/",
+   "url_user": "https://community.bitwarden.com/u/octocat/summary",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Blipfoto",
+   "url_main": "https://www.blipfoto.com/",
+   "url_user": "https://www.blipfoto.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Blitz Tactics",
+   "url_main": "https://blitztactics.com/",
+   "url_user": "https://blitztactics.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Blogger",
+   "url_main": "https://www.blogger.com/",
+   "url_user": "https://octocat.blogspot.com",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Bluesky",
+   "url_main": "https://bsky.app/",
+   "url_user": "https://bsky.app/profile/octocat.bsky.social",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Bookcrossing",
+   "url_main": "https://www.bookcrossing.com/",
+   "url_user": "https://www.bookcrossing.com/mybookshelf/octocat/",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "BoardGameGeek",
+   "url_main": "https://boardgamegeek.com/",
+   "url_user": "https://boardgamegeek.com/user/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "BraveCommunity",
+   "url_main": "https://community.brave.com/",
+   "url_user": "https://community.brave.com/u/octocat/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "BreachSta.rs Forum",
+   "url_main": "https://breachsta.rs/",
+   "url_user": "https://breachsta.rs/profile/octocat",
+   "status": "Unknown",
+   "http_status": null,
+   "error_type": "message",
+   "context": "Error Connecting"
+  },
+  {
+   "site": "BugCrowd",
+   "url_main": "https://bugcrowd.com/",
+   "url_user": "https://bugcrowd.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "BuyMeACoffee",
+   "url_main": "https://www.buymeacoffee.com/",
+   "url_user": "https://buymeacoff.ee/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "BuzzFeed",
+   "url_main": "https://buzzfeed.com/",
+   "url_user": "https://buzzfeed.com/octocat",
+   "status": "Available",
+   "http_status": 406,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Cfx.re Forum",
+   "url_main": "https://forum.cfx.re",
+   "url_user": "https://forum.cfx.re/u/octocat/summary",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "CGTrader",
+   "url_main": "https://www.cgtrader.com",
+   "url_user": "https://www.cgtrader.com/octocat",
+   "status": "Claimed",
+   "http_status": 202,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "CNET",
+   "url_main": "https://www.cnet.com/",
+   "url_user": "https://www.cnet.com/profiles/octocat/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "CSSBattle",
+   "url_main": "https://cssbattle.dev",
+   "url_user": "https://cssbattle.dev/player/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "CTAN",
+   "url_main": "https://ctan.org/",
+   "url_user": "https://ctan.org/author/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Caddy Community",
+   "url_main": "https://caddy.community/",
+   "url_user": "https://caddy.community/u/octocat/summary",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Car Talk Community",
+   "url_main": "https://community.cartalk.com/",
+   "url_user": "https://community.cartalk.com/u/octocat/summary",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Carbonmade",
+   "url_main": "https://carbonmade.com/",
+   "url_user": "https://octocat.carbonmade.com",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "Carrd",
+   "url_main": "https://carrd.co/",
+   "url_user": "https://octocat.carrd.co/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Career.habr",
+   "url_main": "https://career.habr.com/",
+   "url_user": "https://career.habr.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "CashApp",
+   "url_main": "https://cash.app",
+   "url_user": "https://cash.app/$octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Championat",
+   "url_main": "https://www.championat.com/",
+   "url_user": "https://www.championat.com/user/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Chaos",
+   "url_main": "https://chaos.social/",
+   "url_user": "https://chaos.social/@octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Chatujme.cz",
+   "url_main": "https://chatujme.cz/",
+   "url_user": "https://profil.chatujme.cz/octocat",
+   "status": "Claimed",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Chess",
+   "url_main": "https://www.chess.com/",
+   "url_user": "https://www.chess.com/member/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Choice Community",
+   "url_main": "https://choice.community/",
+   "url_user": "https://choice.community/u/octocat/summary",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Clapper",
+   "url_main": "https://clapperapp.com/",
+   "url_user": "https://clapperapp.com/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "CloudflareCommunity",
+   "url_main": "https://community.cloudflare.com/",
+   "url_user": "https://community.cloudflare.com/u/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Clozemaster",
+   "url_main": "https://www.clozemaster.com",
+   "url_user": "https://www.clozemaster.com/players/octocat",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Clubhouse",
+   "url_main": "https://www.clubhouse.com",
+   "url_user": "https://www.clubhouse.com/@octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Code Snippet Wiki",
+   "url_main": "https://codesnippets.fandom.com",
+   "url_user": "https://codesnippets.fandom.com/wiki/User:octocat",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Codeberg",
+   "url_main": "https://codeberg.org/",
+   "url_user": "https://codeberg.org/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Codecademy",
+   "url_main": "https://www.codecademy.com/",
+   "url_user": "https://www.codecademy.com/profiles/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Codechef",
+   "url_main": "https://www.codechef.com/",
+   "url_user": "https://www.codechef.com/users/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "Codeforces",
+   "url_main": "https://codeforces.com/",
+   "url_user": "https://codeforces.com/profile/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Codepen",
+   "url_main": "https://codepen.io/",
+   "url_user": "https://codepen.io/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Coders Rank",
+   "url_main": "https://codersrank.io/",
+   "url_user": "https://profile.codersrank.io/user/octocat/",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Coderwall",
+   "url_main": "https://coderwall.com",
+   "url_user": "https://coderwall.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "CodeSandbox",
+   "url_main": "https://codesandbox.io",
+   "url_user": "https://codesandbox.io/u/octocat",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Codewars",
+   "url_main": "https://www.codewars.com",
+   "url_user": "https://www.codewars.com/users/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Codolio",
+   "url_main": "https://codolio.com/",
+   "url_user": "https://codolio.com/profile/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Coinvote",
+   "url_main": "https://coinvote.cc/",
+   "url_user": "https://coinvote.cc/profile/octocat",
+   "status": "Available",
+   "http_status": 410,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "ColourLovers",
+   "url_main": "https://www.colourlovers.com/",
+   "url_user": "https://www.colourlovers.com/lover/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Contently",
+   "url_main": "https://contently.com/",
+   "url_user": "https://octocat.contently.com/",
+   "status": "Available",
+   "http_status": 302,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "Coroflot",
+   "url_main": "https://coroflot.com/",
+   "url_user": "https://www.coroflot.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Cplusplus",
+   "url_main": "https://cplusplus.com",
+   "url_user": "https://cplusplus.com/user/octocat",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Cracked",
+   "url_main": "https://www.cracked.com/",
+   "url_user": "https://www.cracked.com/members/octocat/",
+   "status": "Available",
+   "http_status": 301,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "Cracked Forum",
+   "url_main": "https://cracked.ax/",
+   "url_user": "https://cracked.ax/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Credly",
+   "url_main": "https://www.credly.com/",
+   "url_user": "https://www.credly.com/users/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Crevado",
+   "url_main": "https://crevado.com/",
+   "url_user": "https://octocat.crevado.com",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Crowdin",
+   "url_main": "https://crowdin.com/",
+   "url_user": "https://crowdin.com/profile/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "CryptoHack",
+   "url_main": "https://cryptohack.org/",
+   "url_user": "https://cryptohack.org/user/octocat/",
+   "status": "Available",
+   "http_status": 302,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "Cryptomator Forum",
+   "url_main": "https://community.cryptomator.org/",
+   "url_user": "https://community.cryptomator.org/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Cults3D",
+   "url_main": "https://cults3d.com/en",
+   "url_user": "https://cults3d.com/en/users/octocat/creations",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "CyberDefenders",
+   "url_main": "https://cyberdefenders.org/",
+   "url_user": "https://cyberdefenders.org/p/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "DEV Community",
+   "url_main": "https://dev.to/",
+   "url_user": "https://dev.to/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "DMOJ",
+   "url_main": "https://dmoj.ca/",
+   "url_user": "https://dmoj.ca/user/octocat",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "DailyMotion",
+   "url_main": "https://www.dailymotion.com/",
+   "url_user": "https://www.dailymotion.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "dcinside",
+   "url_main": "https://www.dcinside.com/",
+   "url_user": "https://gallog.dcinside.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Dealabs",
+   "url_main": "https://www.dealabs.com/",
+   "url_user": "https://www.dealabs.com/profile/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "DeviantArt",
+   "url_main": "https://www.deviantart.com/",
+   "url_user": "https://www.deviantart.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "DigitalSpy",
+   "url_main": "https://forums.digitalspy.com/",
+   "url_user": "https://forums.digitalspy.com/profile/octocat",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Discogs",
+   "url_main": "https://www.discogs.com/",
+   "url_user": "https://www.discogs.com/user/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Discord",
+   "url_main": "https://discord.com/",
+   "url_user": "https://discord.com",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Discord.bio",
+   "url_main": "https://discord.bio/",
+   "url_user": "https://discords.com/api-v2/bio/details/octocat",
+   "status": "Claimed",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Discuss.Elastic.co",
+   "url_main": "https://discuss.elastic.co/",
+   "url_user": "https://discuss.elastic.co/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Diskusjon.no",
+   "url_main": "https://www.diskusjon.no",
+   "url_user": "https://www.diskusjon.no",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Disqus",
+   "url_main": "https://disqus.com/",
+   "url_user": "https://disqus.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Docker Hub",
+   "url_main": "https://hub.docker.com/",
+   "url_user": "https://hub.docker.com/u/octocat/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Dribbble",
+   "url_main": "https://dribbble.com/",
+   "url_user": "https://dribbble.com/octocat",
+   "status": "Claimed",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Duolingo",
+   "url_main": "https://duolingo.com/",
+   "url_user": "https://www.duolingo.com/profile/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Eintracht Frankfurt Forum",
+   "url_main": "https://community.eintracht.de/",
+   "url_user": "https://community.eintracht.de/fans/octocat",
+   "status": "Available",
+   "http_status": 500,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Empretienda AR",
+   "url_main": "https://empretienda.com",
+   "url_user": "https://octocat.empretienda.com.ar",
+   "status": "Unknown",
+   "http_status": null,
+   "error_type": "status_code",
+   "context": "Error Connecting"
+  },
+  {
+   "site": "Envato Forum",
+   "url_main": "https://forums.envato.com/",
+   "url_user": "https://forums.envato.com/u/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Exposure",
+   "url_main": "https://exposure.co/",
+   "url_user": "https://octocat.exposure.co/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "exophase",
+   "url_main": "https://www.exophase.com/",
+   "url_user": "https://www.exophase.com/user/octocat/",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "EyeEm",
+   "url_main": "https://www.eyeem.com/",
+   "url_user": "https://www.eyeem.com/u/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "F3.cool",
+   "url_main": "https://f3.cool/",
+   "url_user": "https://f3.cool/octocat/",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Fameswap",
+   "url_main": "https://fameswap.com/",
+   "url_user": "https://fameswap.com/user/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Fandom",
+   "url_main": "https://www.fandom.com/",
+   "url_user": "https://www.fandom.com/u/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Fanpop",
+   "url_main": "https://www.fanpop.com/",
+   "url_user": "https://www.fanpop.com/fans/octocat",
+   "status": "Available",
+   "http_status": 302,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "Finanzfrage",
+   "url_main": "https://www.finanzfrage.net/",
+   "url_user": "https://www.finanzfrage.net/nutzer/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Flickr",
+   "url_main": "https://www.flickr.com/",
+   "url_user": "https://www.flickr.com/people/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Flightradar24",
+   "url_main": "https://www.flightradar24.com/",
+   "url_user": "https://my.flightradar24.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Flipboard",
+   "url_main": "https://flipboard.com/",
+   "url_user": "https://flipboard.com/@octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Football",
+   "url_main": "https://www.rusfootball.info/",
+   "url_user": "https://www.rusfootball.info/user/octocat/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "FortniteTracker",
+   "url_main": "https://fortnitetracker.com/challenges",
+   "url_user": "https://fortnitetracker.com/profile/all/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Fosstodon",
+   "url_main": "https://fosstodon.org/",
+   "url_user": "https://fosstodon.org/@octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Framapiaf",
+   "url_main": "https://framapiaf.org",
+   "url_user": "https://framapiaf.org/@octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Freelancer",
+   "url_main": "https://www.freelancer.com/",
+   "url_user": "https://www.freelancer.com/u/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Freesound",
+   "url_main": "https://freesound.org/",
+   "url_user": "https://freesound.org/people/octocat/",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "GNOME VCS",
+   "url_main": "https://gitlab.gnome.org/",
+   "url_user": "https://gitlab.gnome.org/octocat",
+   "status": "Available",
+   "http_status": 406,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "GaiaOnline",
+   "url_main": "https://www.gaiaonline.com/",
+   "url_user": "https://www.gaiaonline.com/profiles/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Gamespot",
+   "url_main": "https://www.gamespot.com/",
+   "url_user": "https://www.gamespot.com/profile/octocat/",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "GameFAQs",
+   "url_main": "https://gamefaqs.gamespot.com",
+   "url_user": "https://gamefaqs.gamespot.com/community/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "GeeksforGeeks",
+   "url_main": "https://www.geeksforgeeks.org/",
+   "url_user": "https://auth.geeksforgeeks.org/user/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Genius (Artists)",
+   "url_main": "https://genius.com/",
+   "url_user": "https://genius.com/artists/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Genius (Users)",
+   "url_main": "https://genius.com/",
+   "url_user": "https://genius.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Gesundheitsfrage",
+   "url_main": "https://www.gesundheitsfrage.net/",
+   "url_user": "https://www.gesundheitsfrage.net/nutzer/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "GetMyUni",
+   "url_main": "https://getmyuni.com/",
+   "url_user": "https://www.getmyuni.com/user/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Giant Bomb",
+   "url_main": "https://www.giantbomb.com/",
+   "url_user": "https://www.giantbomb.com/profile/octocat/",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Giphy",
+   "url_main": "https://giphy.com/",
+   "url_user": "https://giphy.com/octocat",
+   "status": "Claimed",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "GitBook",
+   "url_main": "https://gitbook.com/",
+   "url_user": "https://octocat.gitbook.io/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "GitHub",
+   "url_main": "https://www.github.com/",
+   "url_user": "https://www.github.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Warframe Market",
+   "url_main": "https://warframe.market/",
+   "url_user": "https://warframe.market/profile/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "GitLab",
+   "url_main": "https://gitlab.com/",
+   "url_user": "https://gitlab.com/octocat",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Gitea",
+   "url_main": "https://gitea.com/",
+   "url_user": "https://gitea.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Gitee",
+   "url_main": "https://gitee.com/",
+   "url_user": "https://gitee.com/octocat",
+   "status": "Unknown",
+   "http_status": null,
+   "error_type": "status_code",
+   "context": "Timeout Error"
+  },
+  {
+   "site": "GoodReads",
+   "url_main": "https://www.goodreads.com/",
+   "url_user": "https://www.goodreads.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Google Play",
+   "url_main": "https://play.google.com",
+   "url_user": "https://play.google.com/store/apps/developer?id=octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Gradle",
+   "url_main": "https://gradle.org/",
+   "url_user": "https://plugins.gradle.org/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Grailed",
+   "url_main": "https://www.grailed.com/",
+   "url_user": "https://www.grailed.com/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "Gravatar",
+   "url_main": "http://en.gravatar.com/",
+   "url_user": "http://en.gravatar.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Gumroad",
+   "url_main": "https://www.gumroad.com/",
+   "url_user": "https://www.gumroad.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Gutefrage",
+   "url_main": "https://www.gutefrage.net/",
+   "url_user": "https://www.gutefrage.net/nutzer/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "HackTheBox",
+   "url_main": "https://forum.hackthebox.com/",
+   "url_user": "https://forum.hackthebox.com/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Hackaday",
+   "url_main": "https://hackaday.io/",
+   "url_user": "https://hackaday.io/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "HackenProof (Hackers)",
+   "url_main": "https://hackenproof.com/",
+   "url_user": "https://hackenproof.com/hackers/octocat",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "HackerEarth",
+   "url_main": "https://hackerearth.com/",
+   "url_user": "https://hackerearth.com/@octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "HackerNews",
+   "url_main": "https://news.ycombinator.com/",
+   "url_user": "https://news.ycombinator.com/user?id=octocat",
+   "status": "Claimed",
+   "http_status": 419,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "HackerOne",
+   "url_main": "https://hackerone.com/",
+   "url_user": "https://hackerone.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "HackerRank",
+   "url_main": "https://hackerrank.com/",
+   "url_user": "https://hackerrank.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "HackerSploit",
+   "url_main": "https://forum.hackersploit.org/",
+   "url_user": "https://forum.hackersploit.org/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "HackMD",
+   "url_main": "https://hackmd.io/",
+   "url_user": "https://hackmd.io/@octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Harvard Scholar",
+   "url_main": "https://scholar.harvard.edu/",
+   "url_user": "https://scholar.harvard.edu/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Hashnode",
+   "url_main": "https://hashnode.com",
+   "url_user": "https://hashnode.com/@octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Hive Blog",
+   "url_main": "https://hive.blog/",
+   "url_user": "https://hive.blog/@octocat",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Holopin",
+   "url_main": "https://holopin.io",
+   "url_user": "https://holopin.io/@octocat",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Houzz",
+   "url_main": "https://houzz.com/",
+   "url_user": "https://houzz.com/user/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "HubPages",
+   "url_main": "https://hubpages.com/",
+   "url_user": "https://hubpages.com/@octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Hubski",
+   "url_main": "https://hubski.com/",
+   "url_user": "https://hubski.com/user/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "HudsonRock",
+   "url_main": "https://hudsonrock.com",
+   "url_user": "https://cavalier.hudsonrock.com/api/json/v2/osint-tools/search-by-username?username=octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Hugging Face",
+   "url_main": "https://huggingface.co/",
+   "url_user": "https://huggingface.co/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "IFTTT",
+   "url_main": "https://www.ifttt.com/",
+   "url_user": "https://www.ifttt.com/p/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Ifunny",
+   "url_main": "https://ifunny.co/",
+   "url_user": "https://ifunny.co/user/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "IRC-Galleria",
+   "url_main": "https://irc-galleria.net/",
+   "url_user": "https://irc-galleria.net/user/octocat",
+   "status": "Available",
+   "http_status": 302,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "Icons8 Community",
+   "url_main": "https://community.icons8.com/",
+   "url_user": "https://community.icons8.com/u/octocat/summary",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "ImgUp.cz",
+   "url_main": "https://imgup.cz/",
+   "url_user": "https://imgup.cz/octocat",
+   "status": "Available",
+   "http_status": 401,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Imgur",
+   "url_main": "https://imgur.com/",
+   "url_user": "https://imgur.com/user/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "imood",
+   "url_main": "https://www.imood.com/",
+   "url_user": "https://www.imood.com/users/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Instagram",
+   "url_main": "https://instagram.com/",
+   "url_user": "https://instagram.com/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Instapaper",
+   "url_main": "https://www.instapaper.com/",
+   "url_user": "https://www.instapaper.com/p/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Instructables",
+   "url_main": "https://www.instructables.com/",
+   "url_user": "https://www.instructables.com/member/octocat",
+   "status": "Available",
+   "http_status": 405,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Intigriti",
+   "url_main": "https://app.intigriti.com",
+   "url_user": "https://app.intigriti.com/profile/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Ionic Forum",
+   "url_main": "https://forum.ionicframework.com/",
+   "url_user": "https://forum.ionicframework.com/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Issuu",
+   "url_main": "https://issuu.com/",
+   "url_user": "https://issuu.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Itch.io",
+   "url_main": "https://itch.io/",
+   "url_user": "https://octocat.itch.io/",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Itemfix",
+   "url_main": "https://www.itemfix.com/",
+   "url_user": "https://www.itemfix.com/c/octocat",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Jellyfin Weblate",
+   "url_main": "https://translate.jellyfin.org/",
+   "url_user": "https://translate.jellyfin.org/user/octocat/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Jimdo",
+   "url_main": "https://jimdosite.com/",
+   "url_user": "https://octocat.jimdosite.com",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Joplin Forum",
+   "url_main": "https://discourse.joplinapp.org/",
+   "url_user": "https://discourse.joplinapp.org/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Jupyter Community Forum",
+   "url_main": "https://discourse.jupyter.org",
+   "url_user": "https://discourse.jupyter.org/u/octocat/summary",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Kaggle",
+   "url_main": "https://www.kaggle.com/",
+   "url_user": "https://www.kaggle.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "kaskus",
+   "url_main": "https://www.kaskus.co.id",
+   "url_user": "https://www.kaskus.co.id/@octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Keybase",
+   "url_main": "https://keybase.io/",
+   "url_user": "https://keybase.io/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Kick",
+   "url_main": "https://kick.com/",
+   "url_user": "https://kick.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Kik",
+   "url_main": "http://kik.me/",
+   "url_user": "https://kik.me/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Kongregate",
+   "url_main": "https://www.kongregate.com/",
+   "url_user": "https://www.kongregate.com/accounts/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Kvinneguiden",
+   "url_main": "https://forum.kvinneguiden.no",
+   "url_user": "https://forum.kvinneguiden.no",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "LOR",
+   "url_main": "https://linux.org.ru/",
+   "url_user": "https://www.linux.org.ru/people/octocat/profile",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Laracast",
+   "url_main": "https://laracasts.com/",
+   "url_user": "https://laracasts.com/@octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Launchpad",
+   "url_main": "https://launchpad.net/",
+   "url_user": "https://launchpad.net/~octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "LeetCode",
+   "url_main": "https://leetcode.com/",
+   "url_user": "https://leetcode.com/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "LemmyWorld",
+   "url_main": "https://lemmy.world",
+   "url_user": "https://lemmy.world/u/octocat",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "LessWrong",
+   "url_main": "https://www.lesswrong.com/",
+   "url_user": "https://www.lesswrong.com/users/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "Letterboxd",
+   "url_main": "https://letterboxd.com/",
+   "url_user": "https://letterboxd.com/octocat",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "LibraryThing",
+   "url_main": "https://www.librarything.com/",
+   "url_user": "https://www.librarything.com/profile/octocat",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Lichess",
+   "url_main": "https://lichess.org",
+   "url_user": "https://lichess.org/@/octocat",
+   "status": "Available",
+   "http_status": 429,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "LinkedIn",
+   "url_main": "https://linkedin.com",
+   "url_user": "https://linkedin.com/in/octocat",
+   "status": "Available",
+   "http_status": 999,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Linktree",
+   "url_main": "https://linktr.ee/",
+   "url_user": "https://linktr.ee/octocat",
+   "status": "Claimed",
+   "http_status": 406,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "LinuxFR.org",
+   "url_main": "https://linuxfr.org/",
+   "url_user": "https://linuxfr.org/users/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Listed",
+   "url_main": "https://listed.to/",
+   "url_user": "https://listed.to/@octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "LiveJournal",
+   "url_main": "https://www.livejournal.com/",
+   "url_user": "https://octocat.livejournal.com",
+   "status": "Available",
+   "http_status": 410,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Lobsters",
+   "url_main": "https://lobste.rs/",
+   "url_user": "https://lobste.rs/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "LottieFiles",
+   "url_main": "https://lottiefiles.com/",
+   "url_user": "https://lottiefiles.com/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "MMORPG Forum",
+   "url_main": "https://forums.mmorpg.com/",
+   "url_user": "https://forums.mmorpg.com/profile/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Mamot",
+   "url_main": "https://mamot.fr/",
+   "url_user": "https://mamot.fr/@octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Medium",
+   "url_main": "https://medium.com/",
+   "url_user": "https://medium.com/@octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Memrise",
+   "url_main": "https://www.memrise.com/",
+   "url_user": "https://www.memrise.com/user/octocat/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Minecraft",
+   "url_main": "https://minecraft.net/",
+   "url_user": "https://api.mojang.com/users/profiles/minecraft/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "MixCloud",
+   "url_main": "https://www.mixcloud.com/",
+   "url_user": "https://www.mixcloud.com/octocat/",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Monkeytype",
+   "url_main": "https://monkeytype.com/",
+   "url_user": "https://monkeytype.com/profile/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Motorradfrage",
+   "url_main": "https://www.motorradfrage.net/",
+   "url_user": "https://www.motorradfrage.net/nutzer/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "MuseScore",
+   "url_main": "https://musescore.com/",
+   "url_user": "https://musescore.com/octocat",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "MyAnimeList",
+   "url_main": "https://myanimelist.net/",
+   "url_user": "https://myanimelist.net/profile/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "MyMiniFactory",
+   "url_main": "https://www.myminifactory.com/",
+   "url_user": "https://www.myminifactory.com/users/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Mydramalist",
+   "url_main": "https://mydramalist.com",
+   "url_user": "https://www.mydramalist.com/profile/octocat",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Myspace",
+   "url_main": "https://myspace.com/",
+   "url_user": "https://myspace.com/octocat",
+   "status": "Unknown",
+   "http_status": null,
+   "error_type": "status_code",
+   "context": "Timeout Error"
+  },
+  {
+   "site": "NICommunityForum",
+   "url_main": "https://www.native-instruments.com/forum/",
+   "url_user": "https://community.native-instruments.com/profile/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "namuwiki",
+   "url_main": "https://namu.wiki/",
+   "url_user": "https://namu.wiki/w/%EC%82%AC%EC%9A%A9%EC%9E%90:octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "NationStates Nation",
+   "url_main": "https://nationstates.net",
+   "url_user": "https://nationstates.net/nation=octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "NationStates Region",
+   "url_main": "https://nationstates.net",
+   "url_user": "https://nationstates.net/region=octocat",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Naver",
+   "url_main": "https://naver.com",
+   "url_user": "https://blog.naver.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Needrom",
+   "url_main": "https://www.needrom.com/",
+   "url_user": "https://www.needrom.com/author/octocat/",
+   "status": "Unknown",
+   "http_status": null,
+   "error_type": "status_code",
+   "context": "Error Connecting"
+  },
+  {
+   "site": "Newgrounds",
+   "url_main": "https://newgrounds.com",
+   "url_user": "https://octocat.newgrounds.com",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Nextcloud Forum",
+   "url_main": "https://nextcloud.com/",
+   "url_user": "https://help.nextcloud.com/u/octocat/summary",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Nightbot",
+   "url_main": "https://nightbot.tv/",
+   "url_user": "https://nightbot.tv/t/octocat/commands",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Ninja Kiwi",
+   "url_main": "https://ninjakiwi.com/",
+   "url_user": "https://ninjakiwi.com/profile/octocat",
+   "status": "Available",
+   "http_status": 301,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "NintendoLife",
+   "url_main": "https://www.nintendolife.com/",
+   "url_user": "https://www.nintendolife.com/users/octocat",
+   "status": "Available",
+   "http_status": 400,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "NitroType",
+   "url_main": "https://www.nitrotype.com/",
+   "url_user": "https://www.nitrotype.com/racer/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "NotABug.org",
+   "url_main": "https://notabug.org/",
+   "url_user": "https://notabug.org/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Nothing Community",
+   "url_main": "https://nothing.community/",
+   "url_user": "https://nothing.community/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Nyaa.si",
+   "url_main": "https://nyaa.si/",
+   "url_user": "https://nyaa.si/user/octocat",
+   "status": "Available",
+   "http_status": 504,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "ObservableHQ",
+   "url_main": "https://observablehq.com/",
+   "url_user": "https://observablehq.com/@octocat",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Open Collective",
+   "url_main": "https://opencollective.com/",
+   "url_user": "https://opencollective.com/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "OpenGameArt",
+   "url_main": "https://opengameart.org",
+   "url_user": "https://opengameart.org/users/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "OpenStreetMap",
+   "url_main": "https://www.openstreetmap.org/",
+   "url_user": "https://www.openstreetmap.org/user/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Odysee",
+   "url_main": "https://odysee.com/",
+   "url_user": "https://odysee.com/@octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Opensource",
+   "url_main": "https://opensource.com/",
+   "url_user": "https://opensource.com/users/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "OurDJTalk",
+   "url_main": "https://ourdjtalk.com/",
+   "url_user": "https://ourdjtalk.com/members?username=octocat",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Outgress",
+   "url_main": "https://outgress.com/",
+   "url_user": "https://outgress.com/agents/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "PCGamer",
+   "url_main": "https://pcgamer.com",
+   "url_user": "https://forums.pcgamer.com/members/?username=octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "PSNProfiles.com",
+   "url_main": "https://psnprofiles.com/",
+   "url_user": "https://psnprofiles.com/octocat",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "Packagist",
+   "url_main": "https://packagist.org/",
+   "url_user": "https://packagist.org/packages/octocat/",
+   "status": "Available",
+   "http_status": 302,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "Pastebin",
+   "url_main": "https://pastebin.com/",
+   "url_user": "https://pastebin.com/u/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Patched",
+   "url_main": "https://patched.sh/",
+   "url_user": "https://patched.sh/User/octocat",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Patreon",
+   "url_main": "https://www.patreon.com/",
+   "url_user": "https://www.patreon.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "PentesterLab",
+   "url_main": "https://pentesterlab.com/",
+   "url_user": "https://pentesterlab.com/profile/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "HotUKdeals",
+   "url_main": "https://www.hotukdeals.com/",
+   "url_user": "https://www.hotukdeals.com/profile/octocat",
+   "status": "Available",
+   "http_status": 410,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Mydealz",
+   "url_main": "https://www.mydealz.de/",
+   "url_user": "https://www.mydealz.de/profile/octocat",
+   "status": "Available",
+   "http_status": 410,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Chollometro",
+   "url_main": "https://www.chollometro.com/",
+   "url_user": "https://www.chollometro.com/profile/octocat",
+   "status": "Available",
+   "http_status": 410,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "PepperNL",
+   "url_main": "https://nl.pepper.com/",
+   "url_user": "https://nl.pepper.com/profile/octocat",
+   "status": "Available",
+   "http_status": 410,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "PepperPL",
+   "url_main": "https://www.pepper.pl/",
+   "url_user": "https://www.pepper.pl/profile/octocat",
+   "status": "Available",
+   "http_status": 410,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Preisjaeger",
+   "url_main": "https://www.preisjaeger.at/",
+   "url_user": "https://www.preisjaeger.at/profile/octocat",
+   "status": "Available",
+   "http_status": 410,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Pepperdeals",
+   "url_main": "https://www.pepperdeals.se/",
+   "url_user": "https://www.pepperdeals.se/profile/octocat",
+   "status": "Available",
+   "http_status": 410,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "PepperealsUS",
+   "url_main": "https://www.pepperdeals.com/",
+   "url_user": "https://www.pepperdeals.com/profile/octocat",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Promodescuentos",
+   "url_main": "https://www.promodescuentos.com/",
+   "url_user": "https://www.promodescuentos.com/profile/octocat",
+   "status": "Available",
+   "http_status": 410,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Periscope",
+   "url_main": "https://www.periscope.tv/",
+   "url_user": "https://www.periscope.tv/octocat/",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Pinkbike",
+   "url_main": "https://www.pinkbike.com/",
+   "url_user": "https://www.pinkbike.com/u/octocat/",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "pixelfed.social",
+   "url_main": "https://pixelfed.social",
+   "url_user": "https://pixelfed.social/octocat/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "PlayStore",
+   "url_main": "https://play.google.com/store",
+   "url_user": "https://play.google.com/store/apps/developer?id=octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Playstrategy",
+   "url_main": "https://playstrategy.org",
+   "url_user": "https://playstrategy.org/@/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Plurk",
+   "url_main": "https://www.plurk.com/",
+   "url_user": "https://www.plurk.com/octocat",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Pokemon Showdown",
+   "url_main": "https://pokemonshowdown.com",
+   "url_user": "https://pokemonshowdown.com/users/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Polarsteps",
+   "url_main": "https://polarsteps.com/",
+   "url_user": "https://polarsteps.com/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Polygon",
+   "url_main": "https://www.polygon.com/",
+   "url_user": "https://www.polygon.com/users/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Polymart",
+   "url_main": "https://polymart.org/",
+   "url_user": "https://polymart.org/user/octocat",
+   "status": "Available",
+   "http_status": 301,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "ProductHunt",
+   "url_main": "https://www.producthunt.com/",
+   "url_user": "https://www.producthunt.com/@octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "programming.dev",
+   "url_main": "https://programming.dev",
+   "url_user": "https://programming.dev/u/octocat",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Pychess",
+   "url_main": "https://www.pychess.org",
+   "url_user": "https://www.pychess.org/@/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "PromoDJ",
+   "url_main": "http://promodj.com/",
+   "url_user": "http://promodj.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Pronouns.page",
+   "url_main": "https://pronouns.page/",
+   "url_user": "https://pronouns.page/@octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "PyPi",
+   "url_main": "https://pypi.org",
+   "url_user": "https://pypi.org/user/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Python.org Discussions",
+   "url_main": "https://discuss.python.org",
+   "url_user": "https://discuss.python.org/u/octocat/summary",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Rajce.net",
+   "url_main": "https://www.rajce.idnes.cz/",
+   "url_user": "https://octocat.rajce.idnes.cz/",
+   "status": "Available",
+   "http_status": 410,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Rarible",
+   "url_main": "https://rarible.com/",
+   "url_user": "https://rarible.com/marketplace/api/v4/urls/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Rate Your Music",
+   "url_main": "https://rateyourmusic.com/",
+   "url_user": "https://rateyourmusic.com/~octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Rclone Forum",
+   "url_main": "https://forum.rclone.org/",
+   "url_user": "https://forum.rclone.org/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Redbubble",
+   "url_main": "https://www.redbubble.com/",
+   "url_user": "https://www.redbubble.com/people/octocat",
+   "status": "Available",
+   "http_status": 410,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Reddit",
+   "url_main": "https://www.reddit.com/",
+   "url_user": "https://www.reddit.com/user/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Realmeye",
+   "url_main": "https://www.realmeye.com/",
+   "url_user": "https://www.realmeye.com/player/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Reisefrage",
+   "url_main": "https://www.reisefrage.net/",
+   "url_user": "https://www.reisefrage.net/nutzer/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Replit.com",
+   "url_main": "https://replit.com/",
+   "url_user": "https://replit.com/@octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "ResearchGate",
+   "url_main": "https://www.researchgate.net/",
+   "url_user": "",
+   "status": "Illegal",
+   "http_status": null,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "ReverbNation",
+   "url_main": "https://www.reverbnation.com/",
+   "url_user": "https://www.reverbnation.com/octocat",
+   "status": "Claimed",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Roblox",
+   "url_main": "https://www.roblox.com/",
+   "url_user": "https://www.roblox.com/user.aspx?username=octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "RoyalCams",
+   "url_main": "https://royalcams.com",
+   "url_user": "https://royalcams.com/profile/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Ruby Forums",
+   "url_main": "https://ruby-forums.com",
+   "url_user": "https://ruby-forum.com/u/octocat/summary",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "RubyGems",
+   "url_main": "https://rubygems.org/",
+   "url_user": "https://rubygems.org/profiles/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Rumble",
+   "url_main": "https://rumble.com/",
+   "url_user": "https://rumble.com/user/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "RuneScape",
+   "url_main": "https://www.runescape.com/",
+   "url_user": "https://apps.runescape.com/runemetrics/app/overview/player/octocat",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "SWAPD",
+   "url_main": "https://swapd.co/",
+   "url_user": "https://swapd.co/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Sbazar.cz",
+   "url_main": "https://www.sbazar.cz/",
+   "url_user": "https://www.sbazar.cz/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Scratch",
+   "url_main": "https://scratch.mit.edu/",
+   "url_user": "https://scratch.mit.edu/users/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Scribd",
+   "url_main": "https://www.scribd.com/",
+   "url_user": "https://www.scribd.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "SEOForum",
+   "url_main": "https://www.seoforum.com/",
+   "url_user": "https://seoforum.com/@octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Shelf",
+   "url_main": "https://www.shelf.im/",
+   "url_user": "https://www.shelf.im/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "ShitpostBot5000",
+   "url_main": "https://www.shitpostbot.com/",
+   "url_user": "https://www.shitpostbot.com/user/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Signal",
+   "url_main": "https://community.signalusers.org",
+   "url_user": "https://community.signalusers.org/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Sketchfab",
+   "url_main": "https://sketchfab.com/",
+   "url_user": "https://sketchfab.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Slack",
+   "url_main": "https://slack.com",
+   "url_user": "https://octocat.slack.com",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Slant",
+   "url_main": "https://www.slant.co/",
+   "url_user": "https://www.slant.co/users/octocat",
+   "status": "Available",
+   "http_status": 526,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Slashdot",
+   "url_main": "https://slashdot.org",
+   "url_user": "https://slashdot.org/~octocat",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "SlideShare",
+   "url_main": "https://slideshare.net/",
+   "url_user": "https://slideshare.net/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Slides",
+   "url_main": "https://slides.com/",
+   "url_user": "https://slides.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "SmugMug",
+   "url_main": "https://smugmug.com",
+   "url_user": "https://octocat.smugmug.com",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Smule",
+   "url_main": "https://www.smule.com/",
+   "url_user": "https://www.smule.com/octocat",
+   "status": "WAF",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Snapchat",
+   "url_main": "https://www.snapchat.com",
+   "url_user": "https://www.snapchat.com/add/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "SOOP",
+   "url_main": "https://www.sooplive.co.kr/",
+   "url_user": "https://www.sooplive.co.kr/station/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "SoundCloud",
+   "url_main": "https://soundcloud.com/",
+   "url_user": "https://soundcloud.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "SourceForge",
+   "url_main": "https://sourceforge.net/",
+   "url_user": "https://sourceforge.net/u/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "SpaceHey",
+   "url_main": "https://spacehey.com/",
+   "url_user": "https://spacehey.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "SoylentNews",
+   "url_main": "https://soylentnews.org",
+   "url_user": "https://soylentnews.org/~octocat",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "SpeakerDeck",
+   "url_main": "https://speakerdeck.com/",
+   "url_user": "https://speakerdeck.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Speedrun.com",
+   "url_main": "https://speedrun.com/",
+   "url_user": "https://speedrun.com/users/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Spells8",
+   "url_main": "https://spells8.com",
+   "url_user": "https://forum.spells8.com/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Splice",
+   "url_main": "https://splice.com/",
+   "url_user": "https://splice.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Splits.io",
+   "url_main": "https://splits.io",
+   "url_user": "https://splits.io/users/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Sporcle",
+   "url_main": "https://www.sporcle.com/",
+   "url_user": "https://www.sporcle.com/user/octocat/people",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Sportlerfrage",
+   "url_main": "https://www.sportlerfrage.net/",
+   "url_user": "https://www.sportlerfrage.net/nutzer/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "SportsRU",
+   "url_main": "https://www.sports.ru/",
+   "url_user": "https://www.sports.ru/profile/octocat/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Spotify",
+   "url_main": "https://open.spotify.com/",
+   "url_user": "https://open.spotify.com/user/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Star Citizen",
+   "url_main": "https://robertsspaceindustries.com/",
+   "url_user": "https://robertsspaceindustries.com/citizens/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Status Cafe",
+   "url_main": "https://status.cafe/",
+   "url_user": "https://status.cafe/users/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Steam Community (Group)",
+   "url_main": "https://steamcommunity.com/",
+   "url_user": "https://steamcommunity.com/groups/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Steam Community (User)",
+   "url_main": "https://steamcommunity.com/",
+   "url_user": "https://steamcommunity.com/id/octocat/",
+   "status": "Claimed",
+   "http_status": 429,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Strava",
+   "url_main": "https://www.strava.com/",
+   "url_user": "https://www.strava.com/athletes/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Substack",
+   "url_main": "https://substack.com/",
+   "url_user": "https://octocat.substack.com/",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "SublimeForum",
+   "url_main": "https://forum.sublimetext.com/",
+   "url_user": "https://forum.sublimetext.com/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "TETR.IO",
+   "url_main": "https://tetr.io",
+   "url_user": "https://ch.tetr.io/u/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "TheMovieDB",
+   "url_main": "https://www.themoviedb.org/",
+   "url_user": "https://www.themoviedb.org/u/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "TikTok",
+   "url_main": "https://www.tiktok.com",
+   "url_user": "https://www.tiktok.com/@octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Tiendanube",
+   "url_main": "https://www.tiendanube.com/",
+   "url_user": "https://octocat.mitiendanube.com/",
+   "status": "Available",
+   "http_status": 410,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Topcoder",
+   "url_main": "https://topcoder.com/",
+   "url_user": "https://profiles.topcoder.com/octocat/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Topmate",
+   "url_main": "https://topmate.io/",
+   "url_user": "https://topmate.io/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "TRAKTRAIN",
+   "url_main": "https://traktrain.com/",
+   "url_user": "https://traktrain.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Telegram",
+   "url_main": "https://t.me/",
+   "url_user": "https://t.me/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Tellonym.me",
+   "url_main": "https://tellonym.me/",
+   "url_user": "https://tellonym.me/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Tenor",
+   "url_main": "https://tenor.com/",
+   "url_user": "https://tenor.com/users/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Terraria Forums",
+   "url_main": "https://forums.terraria.org/index.php",
+   "url_user": "https://forums.terraria.org/index.php?search/42798315/&c[users]=octocat&o=relevance",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "ThemeForest",
+   "url_main": "https://themeforest.net/",
+   "url_user": "https://themeforest.net/user/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "tistory",
+   "url_main": "https://www.tistory.com/",
+   "url_user": "https://octocat.tistory.com/",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "TradingView",
+   "url_main": "https://www.tradingview.com/",
+   "url_user": "https://www.tradingview.com/u/octocat/",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Trakt",
+   "url_main": "https://www.trakt.tv/",
+   "url_user": "https://www.trakt.tv/users/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "TrashboxRU",
+   "url_main": "https://trashbox.ru/",
+   "url_user": "https://trashbox.ru/users/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Trawelling",
+   "url_main": "https://traewelling.de/",
+   "url_user": "https://traewelling.de/@octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Trello",
+   "url_main": "https://trello.com/",
+   "url_user": "https://trello.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "TryHackMe",
+   "url_main": "https://tryhackme.com/",
+   "url_user": "https://tryhackme.com/p/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Tuna",
+   "url_main": "https://tuna.voicemod.net/",
+   "url_user": "https://tuna.voicemod.net/user/octocat",
+   "status": "Available",
+   "http_status": 500,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Tweakers",
+   "url_main": "https://tweakers.net",
+   "url_user": "https://tweakers.net/gallery/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Twitch",
+   "url_main": "https://www.twitch.tv",
+   "url_user": "https://www.twitch.tv/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Trovo",
+   "url_main": "https://trovo.live",
+   "url_user": "https://trovo.live/s/octocat/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Twitter",
+   "url_main": "https://x.com/",
+   "url_user": "https://x.com/octocat",
+   "status": "Unknown",
+   "http_status": null,
+   "error_type": "message",
+   "context": "Timeout Error"
+  },
+  {
+   "site": "Typeracer",
+   "url_main": "https://typeracer.com",
+   "url_user": "https://data.typeracer.com/pit/profile?user=octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Ultimate-Guitar",
+   "url_main": "https://ultimate-guitar.com/",
+   "url_user": "https://ultimate-guitar.com/u/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Unsplash",
+   "url_main": "https://unsplash.com/",
+   "url_user": "https://unsplash.com/@octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Untappd",
+   "url_main": "https://untappd.com/",
+   "url_user": "https://untappd.com/user/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Valorant Forums",
+   "url_main": "https://valorantforums.com",
+   "url_user": "https://valorantforums.com/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "VK",
+   "url_main": "https://vk.com/",
+   "url_user": "https://vk.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "VSCO",
+   "url_main": "https://vsco.co/",
+   "url_user": "https://vsco.co/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Velog",
+   "url_main": "https://velog.io/",
+   "url_user": "https://velog.io/@octocat/posts",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Velomania",
+   "url_main": "https://forum.velomania.ru/",
+   "url_user": "https://forum.velomania.ru/member.php?username=octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Venmo",
+   "url_main": "https://venmo.com/",
+   "url_user": "https://account.venmo.com/u/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Vero",
+   "url_main": "https://vero.co/",
+   "url_user": "https://vero.co/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Vimeo",
+   "url_main": "https://vimeo.com/",
+   "url_user": "https://vimeo.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "VirusTotal",
+   "url_main": "https://www.virustotal.com/",
+   "url_user": "https://www.virustotal.com/gui/user/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "VLR",
+   "url_main": "https://www.vlr.gg",
+   "url_user": "https://www.vlr.gg/user/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "WICG Forum",
+   "url_main": "https://discourse.wicg.io/",
+   "url_user": "https://discourse.wicg.io/u/octocat/summary",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Wakatime",
+   "url_main": "https://wakatime.com/",
+   "url_user": "https://wakatime.com/@octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Warrior Forum",
+   "url_main": "https://www.warriorforum.com/",
+   "url_user": "https://www.warriorforum.com/members/octocat.html",
+   "status": "Available",
+   "http_status": 400,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Wattpad",
+   "url_main": "https://www.wattpad.com/",
+   "url_user": "https://www.wattpad.com/user/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "WebNode",
+   "url_main": "https://www.webnode.cz/",
+   "url_user": "https://octocat.webnode.cz/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Weblate",
+   "url_main": "https://hosted.weblate.org/",
+   "url_user": "https://hosted.weblate.org/user/octocat/",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Weebly",
+   "url_main": "https://weebly.com/",
+   "url_user": "https://octocat.weebly.com/",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Wikidot",
+   "url_main": "http://www.wikidot.com/",
+   "url_user": "http://www.wikidot.com/user:info/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Wikipedia",
+   "url_main": "https://www.wikipedia.org/",
+   "url_user": "https://en.wikipedia.org/wiki/Special:CentralAuth/octocat?uselang=qqx",
+   "status": "Claimed",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Windy",
+   "url_main": "https://windy.com/",
+   "url_user": "https://community.windy.com/user/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Wix",
+   "url_main": "https://wix.com/",
+   "url_user": "https://octocat.wix.com",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "WolframalphaForum",
+   "url_main": "https://community.wolfram.com/",
+   "url_user": "https://community.wolfram.com/web/octocat/home",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "WordPress",
+   "url_main": "https://wordpress.com",
+   "url_user": "https://octocat.wordpress.com/",
+   "status": "Available",
+   "http_status": 410,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "WordPressOrg",
+   "url_main": "https://wordpress.org/",
+   "url_user": "https://profiles.wordpress.org/octocat/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "Wordnik",
+   "url_main": "https://www.wordnik.com/",
+   "url_user": "https://www.wordnik.com/users/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Wykop",
+   "url_main": "https://www.wykop.pl",
+   "url_user": "https://www.wykop.pl/ludzie/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Xbox Gamertag",
+   "url_main": "https://xboxgamertag.com/",
+   "url_user": "https://xboxgamertag.com/search/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "YandexMusic",
+   "url_main": "https://music.yandex",
+   "url_user": "https://music.yandex/users/octocat/playlists",
+   "status": "Claimed",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "YouNow",
+   "url_main": "https://www.younow.com/",
+   "url_user": "https://www.younow.com/octocat/",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "YouPic",
+   "url_main": "https://youpic.com/",
+   "url_user": "https://youpic.com/photographer/octocat/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "YouTube",
+   "url_main": "https://www.youtube.com/",
+   "url_user": "https://www.youtube.com/@octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "akniga",
+   "url_main": "https://akniga.org/",
+   "url_user": "https://akniga.org/profile/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "authorSTREAM",
+   "url_main": "http://www.authorstream.com/",
+   "url_user": "http://www.authorstream.com/octocat/",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "babyblogRU",
+   "url_main": "https://www.babyblog.ru/",
+   "url_user": "https://www.babyblog.ru/user/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "chaos.social",
+   "url_main": "https://chaos.social/",
+   "url_user": "https://chaos.social/@octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "couchsurfing",
+   "url_main": "https://www.couchsurfing.com/",
+   "url_user": "https://www.couchsurfing.com/people/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "d3RU",
+   "url_main": "https://d3.ru/",
+   "url_user": "https://d3.ru/user/octocat/posts",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "dailykos",
+   "url_main": "https://www.dailykos.com",
+   "url_user": "https://www.dailykos.com/user/octocat",
+   "status": "Claimed",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "datingRU",
+   "url_main": "http://dating.ru",
+   "url_user": "http://dating.ru/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "devRant",
+   "url_main": "https://devrant.com/",
+   "url_user": "https://devrant.com/users/octocat",
+   "status": "Available",
+   "http_status": 302,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "drive2",
+   "url_main": "https://www.drive2.ru/",
+   "url_user": "https://www.drive2.ru/users/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "eGPU",
+   "url_main": "https://egpu.io/",
+   "url_user": "https://egpu.io/forums/profile/octocat/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "eintracht",
+   "url_main": "https://eintracht.de",
+   "url_user": "https://community.eintracht.de/fans/octocat",
+   "status": "Available",
+   "http_status": 500,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "fixya",
+   "url_main": "https://www.fixya.com",
+   "url_user": "https://www.fixya.com/users/octocat",
+   "status": "Claimed",
+   "http_status": 202,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "fl",
+   "url_main": "https://www.fl.ru/",
+   "url_user": "https://www.fl.ru/users/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "forum_guns",
+   "url_main": "https://forum.guns.ru/",
+   "url_user": "https://forum.guns.ru/forummisc/blog/octocat",
+   "status": "Unknown",
+   "http_status": null,
+   "error_type": "message",
+   "context": "Error Connecting"
+  },
+  {
+   "site": "freecodecamp",
+   "url_main": "https://www.freecodecamp.org/",
+   "url_user": "https://www.freecodecamp.org/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "furaffinity",
+   "url_main": "https://www.furaffinity.net",
+   "url_user": "https://www.furaffinity.net/user/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "geocaching",
+   "url_main": "https://www.geocaching.com/",
+   "url_user": "https://www.geocaching.com/p/default.aspx?u=octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "habr",
+   "url_main": "https://habr.com/",
+   "url_user": "https://habr.com/ru/users/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "hackster",
+   "url_main": "https://www.hackster.io",
+   "url_user": "https://www.hackster.io/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "hunting",
+   "url_main": "https://www.hunting.ru/forum/",
+   "url_user": "https://www.hunting.ru/forum/members/?username=octocat",
+   "status": "Claimed",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "igromania",
+   "url_main": "http://forum.igromania.ru/",
+   "url_user": "http://forum.igromania.ru/member.php?username=octocat",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "interpals",
+   "url_main": "https://www.interpals.net/",
+   "url_user": "https://www.interpals.net/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "irecommend",
+   "url_main": "https://irecommend.ru/",
+   "url_user": "https://irecommend.ru/users/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "jbzd.com.pl",
+   "url_main": "https://jbzd.com.pl/",
+   "url_user": "https://jbzd.com.pl/uzytkownik/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "jeuxvideo",
+   "url_main": "https://www.jeuxvideo.com",
+   "url_user": "https://www.jeuxvideo.com/profil/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "kofi",
+   "url_main": "https://ko-fi.com",
+   "url_user": "https://ko-fi.com/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "kwork",
+   "url_main": "https://www.kwork.ru/",
+   "url_user": "https://kwork.ru/user/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "last.fm",
+   "url_main": "https://last.fm/",
+   "url_user": "https://last.fm/user/octocat",
+   "status": "Available",
+   "http_status": 600,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "leasehackr",
+   "url_main": "https://forum.leasehackr.com/",
+   "url_user": "https://forum.leasehackr.com/u/octocat/summary/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "livelib",
+   "url_main": "https://www.livelib.ru/",
+   "url_user": "https://www.livelib.ru/reader/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "mastodon.cloud",
+   "url_main": "https://mastodon.cloud/",
+   "url_user": "https://mastodon.cloud/@octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "mastodon.social",
+   "url_main": "https://chaos.social/",
+   "url_user": "https://mastodon.social/@octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "mastodon.xyz",
+   "url_main": "https://mastodon.xyz/",
+   "url_user": "https://mastodon.xyz/@octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "mstdn.social",
+   "url_main": "https://mstdn.social/",
+   "url_user": "https://mstdn.social/@octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "mercadolivre",
+   "url_main": "https://www.mercadolivre.com.br",
+   "url_user": "https://www.mercadolivre.com.br/perfil/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "minds",
+   "url_main": "https://www.minds.com",
+   "url_user": "https://www.minds.com/octocat/",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "moikrug",
+   "url_main": "https://moikrug.ru/",
+   "url_user": "https://moikrug.ru/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "mstdn.io",
+   "url_main": "https://mstdn.io/",
+   "url_user": "https://mstdn.io/@octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "nairaland.com",
+   "url_main": "https://www.nairaland.com/",
+   "url_user": "https://www.nairaland.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "n8n Community",
+   "url_main": "https://community.n8n.io/",
+   "url_user": "https://community.n8n.io/u/octocat/summary",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "nnRU",
+   "url_main": "https://www.nn.ru/",
+   "url_user": "https://octocat.www.nn.ru/",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "note",
+   "url_main": "https://note.com/",
+   "url_user": "https://note.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "npm",
+   "url_main": "https://www.npmjs.com/",
+   "url_user": "https://www.npmjs.com/~octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "omg.lol",
+   "url_main": "https://home.omg.lol",
+   "url_user": "https://octocat.omg.lol",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "opennet",
+   "url_main": "https://www.opennet.ru/",
+   "url_user": "https://www.opennet.ru/~octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "osu!",
+   "url_main": "https://osu.ppy.sh/",
+   "url_user": "https://osu.ppy.sh/users/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "phpRU",
+   "url_main": "https://php.ru/forum/",
+   "url_user": "https://php.ru/forum/members/?username=octocat",
+   "status": "Claimed",
+   "http_status": 403,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "pikabu",
+   "url_main": "https://pikabu.ru/",
+   "url_user": "https://pikabu.ru/@octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Pinterest",
+   "url_main": "https://www.pinterest.com/",
+   "url_user": "https://www.pinterest.com/octocat/",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "pr0gramm",
+   "url_main": "https://pr0gramm.com/",
+   "url_user": "https://pr0gramm.com/user/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "prog.hu",
+   "url_main": "https://prog.hu/",
+   "url_user": "https://prog.hu/azonosito/info/octocat",
+   "status": "Available",
+   "http_status": 429,
+   "error_type": "response_url",
+   "context": ""
+  },
+  {
+   "site": "satsisRU",
+   "url_main": "https://satsis.info/",
+   "url_user": "https://satsis.info/user/octocat",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "sessionize",
+   "url_main": "https://sessionize.com/",
+   "url_user": "https://sessionize.com/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "social.tchncs.de",
+   "url_main": "https://social.tchncs.de/",
+   "url_user": "https://social.tchncs.de/@octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "spletnik",
+   "url_main": "https://spletnik.ru/",
+   "url_user": "https://spletnik.ru/user/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "svidbook",
+   "url_main": "https://www.svidbook.ru/",
+   "url_user": "https://www.svidbook.ru/user/octocat",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "threads",
+   "url_main": "https://www.threads.net/",
+   "url_user": "https://www.threads.net/@octocat",
+   "status": "Available",
+   "http_status": 200,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "toster",
+   "url_main": "https://www.toster.ru/",
+   "url_user": "https://www.toster.ru/user/octocat/answers",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "tumblr",
+   "url_main": "https://www.tumblr.com/",
+   "url_user": "https://octocat.tumblr.com/",
+   "status": "Claimed",
+   "http_status": 200,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "uid",
+   "url_main": "https://uid.me/",
+   "url_user": "http://uid.me/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "write.as",
+   "url_main": "https://write.as",
+   "url_user": "https://write.as/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "znanylekarz.pl",
+   "url_main": "https://znanylekarz.pl",
+   "url_user": "https://www.znanylekarz.pl/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "Platzi",
+   "url_main": "https://platzi.com/",
+   "url_user": "https://platzi.com/p/octocat/",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "BabyRu",
+   "url_main": "https://www.baby.ru/",
+   "url_user": "https://www.baby.ru/u/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "message",
+   "context": ""
+  },
+  {
+   "site": "Wowhead",
+   "url_main": "https://wowhead.com/",
+   "url_user": "https://wowhead.com/user=octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "addons.wago.io",
+   "url_main": "https://addons.wago.io/",
+   "url_user": "https://addons.wago.io/user/octocat",
+   "status": "Available",
+   "http_status": 404,
+   "error_type": "status_code",
+   "context": ""
+  },
+  {
+   "site": "CurseForge",
+   "url_main": "https://www.curseforge.com.",
+   "url_user": "https://www.curseforge.com/members/octocat/projects",
+   "status": "Available",
+   "http_status": 403,
+   "error_type": "status_code",
+   "context": ""
+  }
+ ]
+}

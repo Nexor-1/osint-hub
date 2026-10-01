@@ -1,0 +1,44 @@
+Running scan for phone number 79001234567...
+
+Results for googlecse
+Homepage: https://cse.google.com/cse?cx=abc
+Results shown: 2
+Total number of results: 2
+Requests made: 1
+Items:
+	Title: Contact — Example Shop
+	URL: https://shop.example.org/contacts
+
+	Title: +7 900 123-45-67 — forum
+	URL: https://forum.example.net/t/123
+
+Results for local
+Raw local: 9001234567
+Local: 8 (900) 123-45-67
+E164: +79001234567
+International: 79001234567
+Country: RU
+Carrier: Tele2
+
+Results for numverify
+Valid: true
+Number: 79001234567
+Local format: 9001234567
+International format: +79001234567
+Country prefix: +7
+Country code: RU
+Country name: Russian Federation (the)
+Location: Moscow
+Carrier: Tele2 Russia
+Line type: mobile
+
+Results for ovh
+Found: true
+Number range: 0900123xxxx
+City: Paris
+Zip code: 75001
+
+The following scanners returned errors:
+googlesearch: context deadline exceeded
+
+4 scanner(s) succeeded

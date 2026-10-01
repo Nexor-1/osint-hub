@@ -1,0 +1,5 @@
+holehe 1.61
+License: GNU General Public License v3 (GPLv3)
+Source: http://github.com/megadose/holehe
+
+Полный текст лицензии: LICENSE (GNU GPL v3) в корне OSINT Hub.

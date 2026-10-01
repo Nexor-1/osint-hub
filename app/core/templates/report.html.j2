@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Отчёт OSINT Hub — {{ target_display }}</title>
+<style>
+:root{--bg:#0F1115;--surface:#171A21;--border:#262A33;--text:#E6E8EB;--sub:#8A8F98;--accent:#7C6CF2;--success:#3FB68B;--warning:#E5A94B;--error:#E5484D}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 Inter,"Segoe UI",Arial,sans-serif}
+main{max-width:1100px;margin:0 auto;padding:40px 24px 64px}
+.eyebrow{font-size:12px;letter-spacing:.13em;text-transform:uppercase;color:var(--sub);font-weight:600}
+h1{font-size:28px;font-weight:600;letter-spacing:-.02em;margin:6px 0 4px;word-break:break-all}
+h2{font-size:18px;font-weight:500;margin:36px 0 14px}
+.meta{color:var(--sub);font-size:12px}
+.badge{display:inline-block;font-size:11px;font-weight:600;padding:3px 8px;border-radius:6px;background:#242833;color:var(--sub)}
+.badge.done{background:#16352d;color:var(--success)}.badge.error{background:#381d22;color:#ef7175}
+.badge.running,.badge.queued{background:#2a2547;color:#aa9efa}.badge.cancelled{background:#392c19;color:var(--warning)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:16px}
+.big{font-size:32px;font-weight:600;letter-spacing:-.03em}
+table{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--border);border-radius:12px;overflow:hidden}
+th,td{text-align:left;padding:10px 14px;border-bottom:1px solid var(--border);vertical-align:top}
+th{background:#1b1e25;color:var(--sub);font-weight:500;font-size:12px}
+td.v{font-family:"JetBrains Mono",Consolas,monospace;font-size:13px;word-break:break-all}
+.dot{display:inline-block;width:7px;height:7px;border-radius:50%;margin-right:6px;background:var(--success)}
+.dot.medium{background:var(--warning)}.dot.low{background:var(--sub)}
+a{color:#aa9efa}
+pre{background:#12151b;border:1px solid var(--border);border-radius:8px;padding:14px;overflow:auto;max-height:480px;font:12px/1.5 "JetBrains Mono",Consolas,monospace;color:#c5c9d2;white-space:pre-wrap;word-break:break-all}
+details{margin:10px 0}summary{cursor:pointer;color:var(--sub)}
+.err{color:#ef7175}
+footer{margin-top:48px;color:var(--sub);font-size:12px;border-top:1px solid var(--border);padding-top:16px}
+@media print{body{background:#fff;color:#111}.card,table,pre{background:#fff;border-color:#ccc;color:#111}th{background:#f3f3f3}details{display:block}}
+</style>
+</head>
+<body>
+<main>
+  <div class="eyebrow">Отчёт · скан #{{ r.scan.id }}</div>
+  <h1>{{ target_display }}</h1>
+  <div class="meta">
+    <span class="badge">{{ target_label }}</span>
+    {% if target_display != r.scan.target %}&nbsp;<span class="v">{{ r.scan.target }}</span> ·{% endif %}
+    &nbsp;Начат {{ r.scan.created_at | dt }}{% if r.scan.finished_at %} · завершён {{ r.scan.finished_at | dt }}{% endif %}
+    · отчёт сформирован {{ r.generated_at | dt }}
+  </div>
+
+  {% if r.summary %}
+  <h2>Сводка</h2>
+  <div class="grid">
+    <div class="card"><div class="big">{{ r.summary.total_findings }}</div><div class="meta">всего находок</div></div>
+    {% for t, n in r.summary.by_type.items() %}
+    <div class="card"><div class="big">{{ n }}</div><div class="meta">{{ type_label(t) }}</div></div>
+    {% endfor %}
+  </div>
+  <h2>Инструменты</h2>
+  <table>
+    <tr><th>Инструмент</th><th>Статус</th><th>Находок</th><th>Время</th><th>Ошибка</th></tr>
+    {% for tool, s in r.summary.by_tool.items() %}
+    <tr>
+      <td>{{ tool }}</td>
+      <td><span class="badge {{ s.status }}">{{ status_label(s.status) }}</span></td>
+      <td>{{ s.findings }}</td>
+      <td class="meta">{{ s.started_at | dt }} → {{ s.finished_at | dt }}</td>
+      <td class="err">{{ s.error or "" }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+  {% endif %}
+
+  {% if geo %}
+  <h2>Геоданные</h2>
+  <table>
+    <tr><th>Координаты</th><th>Источник</th><th>Карта</th></tr>
+    {% for g in geo %}
+    <tr><td class="v">{{ g.value }}</td><td>{{ g.source }}</td>
+      <td><a href="https://www.openstreetmap.org/?mlat={{ g.extra.lat }}&amp;mlon={{ g.extra.lon }}#map=16/{{ g.extra.lat }}/{{ g.extra.lon }}" rel="noopener noreferrer">OpenStreetMap</a></td></tr>
+    {% endfor %}
+  </table>
+  {% endif %}
+
+  {% if r.findings is defined %}
+  <h2>Находки</h2>
+  {% if r.findings %}
+  <table>
+    <tr><th>Тип</th><th>Значение</th><th>Источник</th><th>Достоверность</th></tr>
+    {% for f in r.findings %}
+    <tr>
+      <td><span class="badge">{{ type_label(f.type) }}</span>{% if f.extra.field %}<div class="meta">{{ f.extra.field }}</div>{% endif %}</td>
+      <td class="v">{% if f.extra.url and (f.extra.url.startswith("https://") or f.extra.url.startswith("http://")) %}<a href="{{ f.extra.url }}" rel="noopener noreferrer">{{ f.value }}</a>{% else %}{{ f.value }}{% endif %}</td>
+      <td>{{ f.source }}</td>
+      <td><span class="dot {{ f.confidence }}"></span>{{ conf_label(f.confidence) }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+  {% else %}
+  <p class="meta">Ничего не найдено.</p>
+  {% endif %}
+  {% endif %}
+
+  {% if raw_text %}
+  <h2>Сырой вывод инструментов</h2>
+  {% for tool, text in raw_text.items() %}
+  <details><summary>{{ tool }}</summary><pre>{{ text }}</pre></details>
+  {% endfor %}
+  {% endif %}
+
+  {% if r.log %}
+  <h2>Технический лог</h2>
+  {% for tool, text in r.log.items() %}
+  <details><summary>{{ tool }}</summary><pre>{{ text }}</pre></details>
+  {% endfor %}
+  {% endif %}
+
+  <footer>{{ r.generator }}. Совпадение никнейма или регистрации само по себе не подтверждает принадлежность аккаунта конкретному человеку.</footer>
+</main>
+</body>
+</html>

@@ -1,0 +1,19 @@
+{
+ "checked": 6,
+ "results": [
+  {"name": "github", "domain": "github.com", "method": "register", "frequent_rate_limit": false,
+   "rateLimit": false, "exists": true, "emailrecovery": null, "phoneNumber": null, "others": null},
+  {"name": "instagram", "domain": "instagram.com", "method": "register", "frequent_rate_limit": true,
+   "rateLimit": false, "exists": true, "emailrecovery": null, "phoneNumber": null, "others": null},
+  {"name": "twitter", "domain": "twitter.com", "method": "register", "frequent_rate_limit": false,
+   "rateLimit": false, "exists": true, "emailrecovery": "m*****a@g****.com", "phoneNumber": "+7 *** *** ** 67",
+   "others": null},
+  {"name": "gravatar", "domain": "en.gravatar.com", "method": "other", "frequent_rate_limit": false,
+   "rateLimit": false, "exists": true, "emailrecovery": null, "phoneNumber": null,
+   "others": {"FullName": "Test Person", "Date, time of the creation": ""}},
+  {"name": "spotify", "domain": "spotify.com", "method": "register", "frequent_rate_limit": true,
+   "rateLimit": true, "exists": false, "emailrecovery": null, "phoneNumber": null, "others": null},
+  {"name": "amazon", "domain": "amazon.com", "method": "login", "frequent_rate_limit": false,
+   "rateLimit": false, "exists": false, "emailrecovery": null, "phoneNumber": null, "others": null}
+ ]
+}
